@@ -1,4 +1,4 @@
-# RestauranT & GraphQL Project
+# Restaurant & GraphQL Project
 > MIT xPRO - Week 24
 
 This project was part of the course work required in the MIT xPRO Full-Stack development course taken.
